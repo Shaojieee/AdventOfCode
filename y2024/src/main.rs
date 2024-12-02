@@ -1,9 +1,9 @@
-use std::collections::{BTreeMap, HashSet};
+use std::collections::BTreeMap;
 use std::path::Path;
 use std::fs;
 
 fn main() {
-    // q1_a(Path::new("./y2024/input/day1_a.txt"));
+    q1_a(Path::new("./y2024/input/day1_a.txt"));
     q1_b(Path::new("./y2024/input/day1_b.txt"));
 }
 
