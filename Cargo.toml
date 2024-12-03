@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [workspace]
-members = [ "y2024" ]
+members = [ "day_1" , "day_2"]
 
 
 [dependencies]
