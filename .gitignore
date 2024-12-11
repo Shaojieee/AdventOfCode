@@ -25,3 +25,5 @@ Cargo.lock
 /target
 
 input.txt
+
+.DS_Store
